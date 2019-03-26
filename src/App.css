@@ -1,0 +1,18 @@
+#root {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.count {
+  margin-bottom: 10px;
+  font-size: 200px;
+}
+
+input[type='button'] {
+  margin: 10px;
+  width: 50px;
+  font-size: 50px;
+}
